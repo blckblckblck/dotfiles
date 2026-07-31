@@ -3,6 +3,7 @@ these are my currently dotfiles , i dont customize my system to much but yeah, t
 
 # ??
 credits to @diggingforce ( on github ) for : fastfetch , fish and part of nvim
+
 nixos and kitty's configs are made by me ( @blcklarper on github )
 
 # ⭐ 
