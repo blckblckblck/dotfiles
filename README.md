@@ -1,5 +1,5 @@
 ## !! 
-these are my currently dotfiles , i dont customize my system to much but yeah, they're my nixos, nvim, fish and kitty dots
+these are my current dotfiles , i dont customize my system to much but yeah, they're my nixos, nvim, fish and kitty dots
 
 ## ??
 for everything text me on discord : @bl_eding
